@@ -18,7 +18,7 @@ The best way to validate an e-mail address is still to send a duplicate opt-in-m
 The recommended installation way is through [Composer](https://getcomposer.org).
 
 ```bash
-$ composer require voku/email-check
+$ composer require involix/email-check
 ```
 
 ### Usage:
