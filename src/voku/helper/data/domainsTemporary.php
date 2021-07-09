@@ -2796,7 +2796,6 @@ return [
     'mail.neynt.ca',
     'mail.partskyline.com',
     'mail.piaa.me',
-    'mail.ru',
     'mail.stars19.xyz',
     'mail.unionpay.pl',
     'mail.wtf',
